@@ -18,7 +18,7 @@
 
 ---
 ### This is list for stock sites
-* [Yahoo Finance] (https://ca.finance.yahoo.com/)
+* [Yahoo Finance](https://ca.finance.yahoo.com/)
 * [my portfolio](https://docs.google.com/spreadsheets/d/1J0dxR7FnDglbfUY21c2Add2Xr9aMqchRZ_TiszZwQ_Q/edit#gid=1896952054) my stock portfolio
     * [google trend](https://colab.research.google.com/drive/15AlLYUhbrO98MN6obyXhP3Fq5W0Ah97d): stock google trend analyst
     * [Rolia Stock](https://www.rolia.net/zh/list.php?fu=1&f=43): rolia stock topic discussion
