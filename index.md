@@ -1,6 +1,6 @@
-# Welcome to my website
+# Welcome to my website :smile:
 
-- [Welcome to my website](#welcome-to-my-website)
+- [Welcome to my website :smile:](#welcome-to-my-website-smile)
     - [Daily News](#daily-news)
     - [Shopping](#shopping)
     - [This is list for stock sites](#this-is-list-for-stock-sites)
@@ -8,7 +8,7 @@
 
 ---
 ### Daily News
-[youtube](https://www.youtube.com) |
+[youtube](https://www.youtube.com) | [680news] (https://www.680news.com/) | [51] (https://www.51.ca/)
 [Rolia](https://www.rolia.net/zh/list.php?f=0) | [文学城](https://www.wenxuecity.com/) | [6park](https://www.6park.com/ca.shtml) | [York Covid](https://www.york.ca/covid19vaccine) | 
 [YRDSB Twitter](https://twitter.com/YRDSB) | [今日热榜](https://tophub.today/) 
 
