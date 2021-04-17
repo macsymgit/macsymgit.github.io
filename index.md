@@ -23,7 +23,7 @@
 
 ---
 ### This is list for online video sites.
-[欧乐影院](https://www.olevod.com/) | [胖子视频](https://www.pangzitv.com/) | [独播库](https://www.duboku.tv/) | [混边影视](https://hbys.win/)
+[欧乐影院](https://www.olevod.com/) | [胖子视频](https://www.pangzitv.com/) | [独播库](https://www.duboku.tv/) | [混边影视](https://hbys.win/) |
 [日本影视](https://www.jp1357.com/) | [91美剧网](https://91mjw.com/) | [低端影视](https://ddrk.me/)
 
 
