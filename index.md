@@ -5,8 +5,10 @@
 
 ---
 ### This is list for stock sites
-[my portfolio](https://docs.google.com/spreadsheets/d/1J0dxR7FnDglbfUY21c2Add2Xr9aMqchRZ_TiszZwQ_Q/edit#gid=1896952054) 
-[gurufocus](https://www.gurufocus.cn/):data   [tradeview](https://www.tradingview.com/ideas/tradeview/):chart  [tipranks](https://www.tipranks.com/):ranks
+[my portfolio](https://docs.google.com/spreadsheets/d/1J0dxR7FnDglbfUY21c2Add2Xr9aMqchRZ_TiszZwQ_Q/edit#gid=1896952054)\
+[gurufocus](https://www.gurufocus.cn/):data   
+[tradeview](https://www.tradingview.com/ideas/tradeview/):chart  
+[tipranks](https://www.tipranks.com/):ranks
 
 
 ### This is list for online video sites.
