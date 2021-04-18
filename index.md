@@ -4,14 +4,19 @@
 [youtube](https://www.youtube.com) | [680news](https://www.680news.com/) | [51](https://www.51.ca/) |
 [Rolia](https://www.rolia.net/zh/list.php?f=0) | [文学城](https://www.wenxuecity.com/) | [6park](https://www.6park.com/ca.shtml) | [York Covid](https://www.york.ca/covid19vaccine) | 
 [YRDSB Twitter](https://twitter.com/YRDSB) | [今日热榜](https://tophub.today/) 
+
 ---
+
 ### Shopping
 [Amazon](https://www.amazon.ca/) | [Redflagdeals](https://forums.redflagdeals.com/hot-deals-f9/) 
+
 ---
-### This is list for online video sites.
+
+### Video sites.
 [豆瓣电影](https://movie.douban.com/) |
 [欧乐影院](https://www.olevod.com/) | [胖子视频](https://www.pangzitv.com/) | [独播库](https://www.duboku.tv/) | [混边影视](https://hbys.win/) |
 [日本影视](https://www.jp1357.com/) | [91美剧网](https://91mjw.com/) | [低端影视](https://ddrk.me/) 
+
 ---
 ### This is list for stock sites
 * [Yahoo Finance](https://ca.finance.yahoo.com/)
