@@ -32,5 +32,5 @@
 
 ---
 ### IT sites
-[readme](./README.md) | [readme](./test.md) | [readme](./test.md)
+[GitHub Pages Documentation](https://docs.github.com/en/pages) | [link to other pages](./test.md)
 
