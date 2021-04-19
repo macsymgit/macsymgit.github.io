@@ -32,5 +32,5 @@
 
 ---
 ### IT sites
-[readme](./README.md)
+[readme](./README.md) | [readme](./test.md) | [readme](./test.md)
 
