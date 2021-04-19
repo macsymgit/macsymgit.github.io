@@ -30,5 +30,7 @@
 * [tradeview](https://www.tradingview.com/ideas/tradeview/):stock chart and techical analyst
 * [tipranks](https://www.tipranks.com/):ranks by other analyst
 
-
+---
+### IT sites
+[readme](README.md)
 

@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[link to index.md] (./index.md)
+[Git Hub Pages Documentation](https://docs.github.com/en/pages)
 
 You can use the [editor on GitHub](https://github.com/macsymgit/macsymgit.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
