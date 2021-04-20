@@ -32,5 +32,5 @@
 
 ---
 ### IT sites
-[GitHub Pages Documentation](https://docs.github.com/en/pages) | [link to other pages](./test.md)
+[link to other pages](./notes.md)
 
