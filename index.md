@@ -38,6 +38,17 @@
 * [tradeview](https://www.tradingview.com/ideas/tradeview/):stock chart and techical analyst
 * [tipranks](https://www.tipranks.com/):ranks by other analyst
 
+
+---
+
+### Brodcast sites
+[直播车](http://www.zhiboche.com/) | [925直播](http://www.925.tv/)  | [footybite En](https://footybite.cc/) | [567iptv](http://www.567iptv.com/) | [itiyu](http://www.itiyu.tv/) | 
+[来球网](http://www.nowqiu.com/)
+
+---
+### Raspberry pi
+[Pi-Hole](http://192.168.0.189/admin/) | [portainer-docker](http://192.168.0.189:9000/#!/1/docker/dashboard) | [rpi-monitor](http://192.168.0.189:8888/)
+
 ---
 
 ### IT sites
@@ -45,9 +56,3 @@
 * [link to other pages](./notes.md)
 * [OnlineJson Viewer](http://jsonviewer.stack.hu/)
 * [translator](https://www.deepl.com/translator)
-
----
-
-### Brodcast sites
-[直播车](http://www.zhiboche.com/) | [925直播](http://www.925.tv/)  | [footybite En](https://footybite.cc/) | [567iptv](http://www.567iptv.com/) | [itiyu](http://www.itiyu.tv/) | 
-[来球网](http://www.nowqiu.com/)
