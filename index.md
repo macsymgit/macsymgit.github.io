@@ -48,7 +48,7 @@
 ---
 ### Raspberry pi
 [Pi-Hole](http://192.168.0.189/admin/) | [portainer-docker](http://192.168.0.189:9000/#!/1/docker/dashboard) | [rpi-monitor](http://192.168.0.189:8888/) | 
-[youtube download](http://192.168.0.189:8998/#/home)
+[youtube download](http://192.168.0.189:8998/#/home) | [nextcloud](http://192.168.0.189:8080/nextcloud)
 
 ---
 
