@@ -20,7 +20,7 @@
 
 [豆瓣电影](https://movie.douban.com/) |
 [欧乐影院](https://www.olevod.com/) | [胖子视频](https://www.pangzitv.com/) | [独播库](https://www.duboku.tv/) | [混边影视](https://hbys.win/) |
-[日本影视](https://www.jp1357.com/) | [91美剧网](https://91mjw.com/) | [低端影视](https://ddrk.me/) 
+[日本影视](https://www.jp1357.com/) | [91美剧网](https://91mjw.com/) | [低端影视](https://ddrk.me/) | [一帆视频](https://www.ifsp.tv/)
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### Brodcast sites
 [直播车](http://www.zhiboche.com/) | [925直播](http://www.925.tv/)  | [footybite En](https://footybite.cc/) | [567iptv](http://www.567iptv.com/) | [itiyu](http://www.itiyu.tv/) | 
-[来球网](http://www.nowqiu.com/) | [Reddit Soccer](https://reddt1.soccerstreams.net/tournament/european-championship-live-stream/)
+[来球网](http://www.nowqiu.com/) | [Reddit Soccer](https://reddt1.soccerstreams.net/tournament/european-championship-live-stream/) 
 
 ---
 ### Raspberry pi
