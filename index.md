@@ -43,7 +43,7 @@
 
 ### Brodcast sites
 [直播车](http://www.zhiboche.com/) | [925直播](http://www.925.tv/)  | [footybite En](https://footybite.cc/) | [567iptv](http://www.567iptv.com/) | [itiyu](http://www.itiyu.tv/) | 
-[来球网](http://www.nowqiu.com/) | [Reddit Soccer](https://reddt1.soccerstreams.net/tournament/european-championship-live-stream/) 
+[来球网](http://www.nowqiu.com/) | [Reddit Soccer](https://reddt1.soccerstreams.net/) 
 
 ---
 ### Raspberry pi
