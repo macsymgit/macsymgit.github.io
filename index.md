@@ -4,7 +4,7 @@
 
 ### Personalization
 
-[Todos](https://app.clickup.com/8647824/v/l/87x4g-7) | [Calendar](https://calendar.google.com/calendar/u/0/r) | [Contacts](https://contacts.google.com/label/35d2759d0fe170f9) | [Notion](https://www.notion.so/Getting-Started-b53eeec53cb7450790a95fb513e279e2) 
+[Todos](https://app.clickup.com/8647824/v/l/87x4g-7) | [Calendar](https://calendar.google.com/calendar/u/0/r) | [Contacts](https://contacts.google.com/label/35d2759d0fe170f9) | [Notion](https://www.notion.so/Getting-Started-b53eeec53cb7450790a95fb513e279e2) | [self-assessment COVID-19](https://covidscreening.yrdsb.ca/)
 
 ---
 
@@ -49,7 +49,7 @@
 
 ### Brodcast sites
 [直播车](http://www.zhiboche.com/) | [925直播](http://www.925.tv/)  | [footybite En](https://footybite.cc/) | [567iptv](http://www.567iptv.com/) | [itiyu](http://www.itiyu.tv/) | 
-[来球网](http://www.nowqiu.com/) | [Reddit Soccer](https://reddt1.soccerstreams.net/) | 
+[来球网](http://www.nowqiu.com/) | [Reddit Soccer](https://reddt1.soccerstreams.net/) | [YIYI](https://yiyizhibo.com/)
 
 ---
 ### Raspberry pi
