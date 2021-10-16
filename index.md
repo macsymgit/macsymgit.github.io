@@ -4,7 +4,7 @@
 
 ### Personalization
 
-[Todos](https://app.clickup.com/8647824/v/l/87x4g-7) | [Calendar](https://calendar.google.com/calendar/u/0/r) | [Contacts](https://contacts.google.com/label/35d2759d0fe170f9) | [Notion](https://www.notion.so/Getting-Started-b53eeec53cb7450790a95fb513e279e2) | [gmail](https://mail.google.com/mail/u/0/#inbox) 
+[Todos](https://app.clickup.com/8647824/v/l/87x4g-7) | [Calendar](https://calendar.google.com/calendar/u/0/r) | [Contacts](https://contacts.google.com/label/35d2759d0fe170f9) | [Notion](https://www.notion.so/Getting-Started-b53eeec53cb7450790a95fb513e279e2) | [Gmail](https://mail.google.com/mail/u/0/#inbox) 
 
 ---
 
@@ -26,7 +26,7 @@
 
 [豆瓣电影](https://movie.douban.com/) |
 [欧乐影院](https://www.olevod.com/) | [胖子视频](https://www.pangzitv.com/) | [独播库](https://www.duboku.tv/) | [混边影视](https://hbys.win/) |
-[91美剧网](https://91mjw.com/) | [低端影视](https://ddrk.me/) 
+[91美剧网](https://91mjw.com/) | [低端影视](https://ddrk.me/) | [唐人街](https://ouleyingyuan.tangrenjie.tv/)
 
 ---
 
