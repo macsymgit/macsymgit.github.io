@@ -41,10 +41,10 @@
     * [WSB Tracker](https://swaggystocks.com/dashboard/wallstreetbets/ticker-sentiment): WSB stock sticker track
     * [Reddit Feed](https://dayminer.herokuapp.com/): Reddit feed stock sticker tracker
     * [citronresearch](https://citronresearch.com/): citronresearch for suggest stock
-* [gurufocus](https://www.gurufocus.cn/):stock history data   
-* [tradeview](https://www.tradingview.com/ideas/tradeview/):stock chart and techical analyst
-* [tipranks](https://www.tipranks.com/):ranks by other analyst
-
+* [Gurufocus](https://www.gurufocus.cn/):stock history data   
+* [Tradeview](https://www.tradingview.com/ideas/tradeview/):stock chart and techical analyst
+* [Tipranks](https://www.tipranks.com/):ranks by other analyst
+* [Portfolio Visualizer](https://www.portfoliovisualizer.com/):portfolio and investment analytics 
 
 ---
 
