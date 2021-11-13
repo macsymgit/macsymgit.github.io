@@ -1,3 +1,21 @@
+- [Dataflow](#dataflow)
+	- [Apache Beam](#apache-beam)
+		- [Element-wise tranformation](#element-wise-tranformation)
+			- [MapElements (1 to 1 mapping)](#mapelements-1-to-1-mapping)
+			- [ParDo (1 to 1 or less mapping)](#pardo-1-to-1-or-less-mapping)
+			- [Filters](#filters)
+			- [Flatten (Union)](#flatten-union)
+			- [Partition (to multu PCollection)](#partition-to-multu-pcollection)
+			- [Side Inputs (join by key)](#side-inputs-join-by-key)
+		- [Aggregation tranformation](#aggregation-tranformation)
+			- [Distinct](#distinct)
+			- [Count](#count)
+			- [GroupByKey](#groupbykey)
+		- [Join](#join)
+			- [Inner Join](#inner-join)
+			- [Left Join](#left-join)
+			- [Right Join](#right-join)
+
 # Dataflow
 
 ## Apache Beam
@@ -146,3 +164,73 @@ PCollection<String> output = pIterable.apply(ParDo.of(new DoFn<KV<String, Iterab
 ### Join
 
 #### Inner Join
+
+1. 2 input PCollection convert as KV<String,String> by @ProcessElement function
+2. Create TupleTag object.
+3. Combine data sets using CoGroupByKey
+4. Iterate CoGbkResult and build String  
+
+```java
+//1 input PCollection convert as KV check GroupBy example code
+
+//2 Create TupleTag object.
+		final TupleTag<String> orderTuple = new TupleTag<String>();
+		final TupleTag<String> userTuple = new TupleTag<String>();
+
+//3 Combine data sets using CoGroupByKey
+		PCollection<KV<String, CoGbkResult>> result = KeyedPCollectionTuple.of(orderTuple, pOrderCollection)
+						.and(userTuple, pUserCollection)
+						.apply(CoGroupByKey.<String>create());
+
+//4 Iterate CoGbkResult and build output String  
+		PCollection<String> output = result.apply(ParDo.of(new DoFn<KV<String, CoGbkResult>, String>() {
+				
+			@ProcessElement
+			  public void processElement(ProcessContext c) {
+			   	    	
+					String strKey = c.element().getKey();
+					CoGbkResult valObject = c.element().getValue();
+					
+					Iterable<String> orderTable= valObject.getAll(orderTuple);
+					Iterable<String> userTable = valObject.getAll(userTuple);
+					
+					for (String order : orderTable) {
+						for (String user : userTable) {							
+							c.output(strKey+","+order+","+user);
+						}
+					}
+			  }
+		}));
+```
+
+#### Left Join
+
+4. first 3 steps same as inner join, only Iterate CoGbkResult right PCollection first check with hasnext() for Left PCollection
+
+```java
+					for (String order : orderTable) { //orderTable as right Pcollection
+						if(userTable.iterator().hasNext()) {
+							for (String user : userTable) {							
+								c.output(strKey+","+order+","+user);
+							}
+						} else {
+							c.output(strKey+","+order+","+null);
+						}
+					}
+```
+
+#### Right Join
+
+4. first 3 steps same as inner join, only Iterate CoGbkResult left PCollection first check with hasnext() for Right PCollection
+
+```java
+					for (String user : userTable) { //orderTable as right Pcollection
+						if(orderTable.iterator().hasNext()) {
+							for (String order : orderTable) {							
+								c.output(strKey+","+user+","+order);
+							}
+						} else {
+							c.output(strKey+","+user+",null,null,null");
+						}
+					}
+```
