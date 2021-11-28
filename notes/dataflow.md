@@ -15,6 +15,8 @@
 			- [Inner Join](#inner-join)
 			- [Left Join](#left-join)
 			- [Right Join](#right-join)
+		- [BeamSQL](#beamsql)
+			- [Normal SQL Select](#normal-sql-select)
 
 # Dataflow
 
@@ -235,4 +237,25 @@ PCollection<String> output = pIterable.apply(ParDo.of(new DoFn<KV<String, Iterab
 					}
 ```
 
+### BeamSQL
 
+#### Normal SQL Select
+
+1. Convert PCollection<String> to PCollection<Row>
+
+```java
+        public void processElement(ProcessContext c) {
+
+            if (!c.element().equalsIgnoreCase(HEADER)) {
+                String arr[] = c.element().split(",");
+                Row record = Row.withSchema(schema).addValues(arr[0], arr[1], arr[2], Double.valueOf(arr[3])).build();
+                c.output(record);
+            }
+        }
+```
+
+2. Apply SqlTramsform.query
+
+```java
+	PCollection<Row> sqlInput = rowInput.apply(SqlTransform.query("select * from PCOLLECTION "));
+```
