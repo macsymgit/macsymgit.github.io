@@ -27,7 +27,7 @@
 ### Video sites.
 
 [豆瓣电影](https://movie.douban.com/) |
-[欧乐影院](https://www.olevod.com/) | [胖子视频](https://www.pangzitv.com/) | [独播库](https://www.duboku.tv/) | [混边影视](https://hbys.win/) |
+[欧乐影院](https://www.olevod.com/) | [胖子视频](https://www.pangzitv.com/) | [独播库](https://www.duboku.tv/) | 
 [91美剧网](https://91mjw.com/) | [低端影视](https://ddrk.me/) | [唐人街](https://ouleyingyuan.tangrenjie.tv/)
 
 ---
