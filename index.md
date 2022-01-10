@@ -6,8 +6,7 @@
 
 [Todos](https://app.clickup.com/8647824/v/l/87x4g-7) | [Calendar](https://calendar.google.com/calendar/u/0/r) | [Contacts](https://contacts.google.com/label/35d2759d0fe170f9) | [Notion](https://www.notion.so/Getting-Started-b53eeec53cb7450790a95fb513e279e2) | [Gmail](https://mail.google.com/mail/u/0/#inbox) | [Keep](https://keep.google.com/) | [logseq](https://logseq.com/#/) |
 [Markham Form](https://frm-cvd-ca.esolg.ca/City-of-Markham/Markham-Screening-Form) | 
-[Richmond Hill Form](https://forms.richmondhill.ca/Wellness/General) |
-[Trilium Notes](https://samtrilium.herokuapp.com/)
+[Richmond Hill Form](https://forms.richmondhill.ca/Wellness/General)
 
 ---
 
@@ -43,6 +42,7 @@
     * [WSB Tracker](https://swaggystocks.com/dashboard/wallstreetbets/ticker-sentiment): WSB stock sticker track
     * [Reddit Feed](https://dayminer.herokuapp.com/): Reddit feed stock sticker tracker
     * [citronresearch](https://citronresearch.com/): citronresearch for suggest stock
+    * [fintogether](https://fintogether.com/admin/dashboard)
 * [Gurufocus](https://www.gurufocus.cn/):stock history data   
 * [Tradeview](https://www.tradingview.com/ideas/tradeview/):stock chart and techical analyst
 * [Tipranks](https://www.tipranks.com/):ranks by other analyst
