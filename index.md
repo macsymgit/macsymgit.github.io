@@ -7,7 +7,8 @@
 [Todos](https://app.clickup.com/8647824/v/l/87x4g-7) | [Calendar](https://calendar.google.com/calendar/u/0/r) | [Contacts](https://contacts.google.com/label/35d2759d0fe170f9) | [Notion](https://www.notion.so/Getting-Started-b53eeec53cb7450790a95fb513e279e2) | [Gmail](https://mail.google.com/mail/u/0/#inbox) | [Keep](https://keep.google.com/) | [logseq](https://logseq.com/#/) |
 [Markham Form](https://frm-cvd-ca.esolg.ca/City-of-Markham/Markham-Screening-Form) | 
 [Richmond Hill Form](https://forms.richmondhill.ca/Wellness/General) |
-[York School Screen Tool 348671801](https://covidscreening.yrdsb.ca/Home/Questionnaire)
+[York School Screen Tool 348671801](https://covidscreening.yrdsb.ca/Home/Questionnaire) |
+[wikijs](https://triliumnote.herokuapp.com/)
 
 ---
 
