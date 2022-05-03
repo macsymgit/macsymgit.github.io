@@ -1,0 +1,85 @@
+{
+    "root": {
+        "data": {
+            "id": "cjognrzgi680",
+            "created": 1651411896479,
+            "text": "Lawn"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cjognxga3rc0",
+                    "created": 1651411908380,
+                    "text": "watering"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjogo0oa6cg0",
+                            "created": 1651411915395,
+                            "text": "3 cm / week"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cjogoelg2u80",
+                    "created": 1651411945698,
+                    "text": "raking",
+                    "layout_mind_offset": {
+                        "x": 307,
+                        "y": 139
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjogoltiwr40",
+                            "created": 1651411961424,
+                            "text": "spring"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjogoor7uq80",
+                            "created": 1651411967815,
+                            "text": "fall"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cjogp1rovzc0",
+                    "created": 1651411996142,
+                    "text": "Mowing"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjogp5pif9s0",
+                            "created": 1651412004717,
+                            "text": "6cm to mowing"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjogpi93kug0",
+                            "created": 1651412032023,
+                            "text": "sharpe blade every  8 cuts"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
