@@ -4,7 +4,7 @@
 
 ### Personalization
 
-[Todos](https://app.clickup.com/8647824/v/l/87x4g-7) | [Calendar](https://calendar.google.com/calendar/u/0/r) | [Contacts](https://contacts.google.com/label/35d2759d0fe170f9) | [Notion](https://www.notion.so/Getting-Started-b53eeec53cb7450790a95fb513e279e2) | [Gmail](https://mail.google.com/mail/u/0/#inbox) | [Keep](https://keep.google.com/) | [logseq](https://logseq.com/#/) |
+[Todos](https://app.clickup.com/8647824/v/l/87x4g-7) | [Calendar](https://calendar.google.com/calendar/u/0/r) | [Contacts](https://contacts.google.com/label/35d2759d0fe170f9) | [Notion](https://www.notion.so/Getting-Started-b53eeec53cb7450790a95fb513e279e2) | [Gmail](https://mail.google.com/mail/u/0/#inbox) | [Keep](https://keep.google.com/) | [mediation](https://macsymwang.github.io/mediation-doc/) |
 [wikijs](https://triliumnote.herokuapp.com/)
 
 ---
