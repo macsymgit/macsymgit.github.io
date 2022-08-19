@@ -26,7 +26,7 @@
 ### Video sites.
 
 [豆瓣电影](https://movie.douban.com/) |
-[欧乐影院](https://www.olevod.com/) | [胖子视频](https://www.pangzitv.com/) | [独播库](https://www.duboku.tv/) | [奈飞中文](https://www.naifei.org/) | [91美剧网](https://mjw91.com/) | [低端影视](https://ddrk.me/) | [唐人街](https://www.tangrenjie.tv/) | [english](https://hdtoday.cc/)
+[欧乐影院](https://www.olevod.com/) | [胖子视频](https://www.pangzitv.com/) | [独播库](https://www.duboku.tv/) | [奈飞中文](https://www.naifei.org/) | [91美剧网](https://mjw91.com/) | [低端影视](https://ddrk.me/) | [唐人街](https://www.tangrenjie.tv/) | [爱一帆](https://www.iyf.tv/) | [english](https://hdtoday.cc/)
 
 ---
 
