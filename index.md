@@ -23,6 +23,12 @@
 
 ---
 
+### Excise
+
+[15分钟哑铃全身力量无氧训练](https://www.youtube.com/watch?v=KM_zfsnQJTw) | [15分钟哑铃负重力量训练](https://www.youtube.com/watch?v=ym-80ax8_rw)
+
+---
+
 ### Video sites.
 
 [豆瓣电影](https://movie.douban.com/) |
