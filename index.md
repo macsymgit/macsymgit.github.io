@@ -55,7 +55,7 @@
 ---
 
 ### Brodcast sites
-[925直播](http://www.925.tv/)  | [footybite En](https://footybite.cc/) | [567iptv](http://www.567iptv.com/) | [Reddit Soccer](https://reddt1.soccerstreams.net/) | [Reddit NBA](https://reddit.rnbastreams.com/) | [IPTV](https://github.com/iptv-org/iptv) | 
+[925直播](http://www.925.tv/)  | [footybite En](https://footybite.to/) | [567iptv](http://www.567iptv.com/) | [IPTV](https://github.com/iptv-org/iptv) | 
 [Reddit](https://redditz.soccerstreamlinks.com/) | [FREEINTERTV](http://www.freeintertv.com/) | [华人超级直播](https://www.chaojizhibo.net/Sports/cctv5.html)
 
 ---
