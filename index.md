@@ -25,7 +25,7 @@
 
 ### Excise
 
-[15分钟哑铃全身力量无氧训练](https://www.youtube.com/watch?v=KM_zfsnQJTw) | [15分钟哑铃负重力量训练](https://www.youtube.com/watch?v=ym-80ax8_rw)
+[15分钟哑铃全身力量无氧训练](https://www.youtube.com/watch?v=KM_zfsnQJTw) | [15分钟哑铃负重力量训练](https://www.youtube.com/watch?v=ym-80ax8_rw) | [15分鐘居家手臂啞鈴訓練](https://www.youtube.com/watch?v=fDyLXdGknWk)
 
 ---
 
