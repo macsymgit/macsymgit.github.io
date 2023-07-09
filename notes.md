@@ -11,3 +11,6 @@
 > pandoc -o output.docx -f markdown -t docx readme.md
 
 ##### Maven run commands 
+
+##### VPS
+[Oracle Cloud](https://cloud.oracle.com/compute/instances?region=ca-toronto-1)
