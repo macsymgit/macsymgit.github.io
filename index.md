@@ -71,3 +71,4 @@
 * [link to other pages](./notes.md)
 * [OnlineJson Viewer](http://jsonviewer.stack.hu/)
 * [translator](https://www.deepl.com/translator)
+* [gun](./notes/gun.md)
