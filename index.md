@@ -5,7 +5,7 @@
 ### Personalization
 
 [Trello](https://trello.com/b/00SLW24Z/home) | [Calendar](https://calendar.google.com/calendar/u/0/r) | [Contacts](https://contacts.google.com/label/35d2759d0fe170f9) | [Notion](https://www.notion.so/Getting-Started-b53eeec53cb7450790a95fb513e279e2) | [Gmail](https://mail.google.com/mail/u/0/#inbox) | [Keep](https://keep.google.com/) | [mediation](https://macsymwang.github.io/mediation-doc/) |
-[quick note](https://laverna.cc/app/#notes) | [obsidian](https://macsymgit.github.io/obsidian/) | [Music](https://music.y444.cn/#/)
+[quick note](https://laverna.cc/app/#notes) | [obsidian](https://macsymgit.github.io/obsidian/) | [Music](https://music.y444.cn/#/) | [memos](https://memos.iflugirl.duckdns.org/)
 
 ---
 
