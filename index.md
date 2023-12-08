@@ -32,7 +32,7 @@
 ### Video sites.
 
 [豆瓣电影](https://movie.douban.com/) |
-[欧乐影院](https://www.olevod.com/) | [胖子视频](https://www.pangzitv.com/) | [独播库](https://www.duboku.tv/) | [91美剧网](https://91mjw.tv/) | [低端影视](https://ddrk.me/) | [唐人街](https://www.tangrenjie.tv/) | [爱一帆](https://www.iyf.tv/) | [爱欧乐影院](https://www.iole.tv/) | 
+[欧乐影院](https://www.olevod.com/) | [不太灵影视](https://www.2bt0.com/) | [独播库](https://www.duboku.tv/) | [91美剧网](https://91mjw.tv/) | [低端影视](https://ddrk.me/) | [唐人街](https://www.tangrenjie.tv/) | [爱一帆](https://www.iyf.tv/) | [爱欧乐影院](https://www.iole.tv/) | 
 [English](https://hdtoday.cc/) | [O8TV](https://o8tv.com/) | [片库](https://www.pkmp4.com/) | [努努影院](https://nnyy.in/) | [七喜影院](https://www.7xi.tv/) | [HOHOTV](https://hoho.tv/) | [小宝影院](https://xiaobaotv.net) | [4kvm](https://www.4kvm.net/) | [美剧天堂](https://www.meijutt.cc/)
 
 ---
