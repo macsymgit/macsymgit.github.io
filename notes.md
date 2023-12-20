@@ -15,3 +15,6 @@
 ##### VPS
 [Oracle Cloud](https://cloud.oracle.com/compute/instances?region=ca-toronto-1)
 [Never Install](https://neverinstall.com/)
+
+##### AI tools
+[self host gemini](https://gemini-pro-chat-psi-sandy.vercel.app/)
