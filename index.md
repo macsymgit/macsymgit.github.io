@@ -57,7 +57,7 @@
 
 ### Brodcast sites
 [925直播](http://www.925.tv/)  | [footybite En](https://footybite.to/) | [567iptv](http://www.567iptv.com/) | [IPTV](https://github.com/iptv-org/iptv) | 
-[Reddit](https://rsoccerstreams.net/) | [FREEINTERTV](http://www.freeintertv.com/) | [华人超级直播](https://www.chaojizhibo.net/Sports/cctv5.html) | [优直播](https://www.yoozhibo.net/zuqiu/) | [无插件直播](https://wcjzb.tv/) | [低调看球](https://ddkanqiu.net/)
+[Reddit](https://rsoccerstreams.net/) | [FREEINTERTV](http://www.freeintertv.com/) | [华人超级直播](https://www.chaojizhibo.net/Sports/cctv5.html) | [优直播](https://www.yoozhibo.net/zuqiu/) | [无插件直播](https://wcjzb.tv/) | [低调看球](http://www.wuchajian.live/)
 
 ---
 ### Raspberry pi
