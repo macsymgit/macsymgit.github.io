@@ -10,7 +10,7 @@
 ---
 ### AI Links
 
-[Gemini](https://gemini-pro-chat-psi-sandy.vercel.app/) | [HuggingChat](https://huggingface.co/chat/assistants) | [FileGPT](https://filegpt.app/chat) | [Coze Bots](https://www.coze.com/space/7317451347102547973/bot)
+[Gemini](https://gemini-pro-chat-psi-sandy.vercel.app/) | [HuggingChat](https://huggingface.co/chat/assistants) | [FileGPT](https://filegpt.app/chat) | [Coze Bots](https://www.coze.com/space/7317451347102547973/bot) | [Gemini PDF Chatbot](https://gmultichat.streamlit.app/)
 
 ---
 
