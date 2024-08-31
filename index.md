@@ -20,7 +20,7 @@
 [youtube](https://www.youtube.com) | [680news](https://www.680news.com/) | [51](https://www.51.ca/) | [YorkBBS](https://forum.yorkbbs.ca/) | 
 [Rolia](https://www.rolia.net/zh/list.php?f=0) | [文学城](https://www.wenxuecity.com/) | [6park](https://www.6park.com/ca.shtml) | [York Covid](https://www.york.ca/covid19vaccine) | 
 [YRDSB Twitter](https://twitter.com/YRDSB) | [今日热榜](https://tophub.today/)  | [milliondollarjourney](https://milliondollarjourney.com/) | [一亩三分](https://www.1point3acres.com/bbs/forum.php?mod=guide&view=digest)
-
+ | [CFC中文网](https://comefromchina.com)
 ---
 
 ### Shopping
@@ -39,7 +39,7 @@
 
 [豆瓣电影](https://movie.douban.com/) |
 [欧乐影院](https://www.olevod.com/) | [不太灵影视](https://www.2bt0.com/) | [独播库](https://www.duboku.tv/) | [91美剧网](https://91mjw.tv/) | [低端影视](https://ddrk.me/) | [爱一帆](https://www.iyf.tv/) | [爱欧乐影院](https://www.iole.tv/) | [English](https://hdtoday.cc/) | 
-[片库](https://www.pkmp4.com/) | [努努影院](https://nnyy.in/) | [七喜影院](https://www.7xi.tv/) | [小宝影院](https://xiaobaotv.net) | [4kvm](https://www.4kvm.net/) | [美剧天堂](https://www.meijutt.cc/) | [星视界](https://www.histar.tv/) | [tubi english](https://tubitv.com/home)
+[片库](https://www.pkmp4.com/) | [努努影院](https://nnyy.in/) | [七喜影院](https://www.7xi.tv/) | [小宝影院](https://xiaobaotv.net) | [4kvm](https://www.4kvm.net/) | [美剧天堂](https://www.meijutt.cc/) | [星视界](https://www.histar.tv/) | [tubi english](https://tubitv.com/home) 
 
 ---
 
