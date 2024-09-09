@@ -11,7 +11,7 @@
 ### AI Links
 
 [Gemini](https://gemini-pro-chat-psi-sandy.vercel.app/) | [HuggingChat](https://huggingface.co/chat/assistants) | [FileGPT](https://filegpt.app/chat) | [Coze Bots](https://www.coze.com/space/7317451347102547973/bot) | [Gemini PDF Chatbot](https://gmultichat.streamlit.app/) | [notebooklm](https://notebooklm.google.com/) | [claude](https://claude.ai/chats) |
-[perplexity search](https://www.perplexity.ai/) | [lmsys](https://arena.lmsys.org/) | [poe](https://poe.com/)
+[perplexity search](https://www.perplexity.ai/) | [lmsys](https://arena.lmsys.org/) | [poe](https://poe.com/) | [kelaode.ai](https://kelaode.ai/)
 
 ---
 
@@ -19,8 +19,7 @@
 
 [youtube](https://www.youtube.com) | [680news](https://www.680news.com/) | [51](https://www.51.ca/) | [YorkBBS](https://forum.yorkbbs.ca/) | 
 [Rolia](https://www.rolia.net/zh/list.php?f=0) | [文学城](https://www.wenxuecity.com/) | [6park](https://www.6park.com/ca.shtml) | [York Covid](https://www.york.ca/covid19vaccine) | 
-[YRDSB Twitter](https://twitter.com/YRDSB) | [今日热榜](https://tophub.today/)  | [milliondollarjourney](https://milliondollarjourney.com/) | [一亩三分](https://www.1point3acres.com/bbs/forum.php?mod=guide&view=digest)
- | [CFC中文网](https://comefromchina.com)
+[YRDSB Twitter](https://twitter.com/YRDSB) | [今日热榜](https://tophub.today/)  | [milliondollarjourney](https://milliondollarjourney.com/) | [一亩三分](https://www.1point3acres.com/bbs/forum.php?mod=guide&view=digest) | [CFC中文网](https://comefromchina.com)
  
 ---
 
