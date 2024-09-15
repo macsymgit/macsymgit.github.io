@@ -63,7 +63,7 @@
 
 ### Brodcast sites
 [925直播](http://www.925.tv/)  | [footybite En](https://footybite.to/) | [567iptv](http://www.567iptv.com/) | [IPTV](https://github.com/iptv-org/iptv) | 
-[Reddit](https://soccerlive.app/) | [FREEINTERTV](http://www.freeintertv.com/) | [华人超级直播](https://www.chaojizhibo.net/Sports/cctv5.html) | [优直播](https://www.yoozhibo.net/zuqiu/) | [无插件直播](https://wcjzb.tv/) | [低调看球](http://www.wuchajian.live/) | [YesLiveTV](https://yeslivetv.com/) | [88看球](http://www.88kanqiu.me/)
+[Reddit](https://soccerlive.app/) | [FREEINTERTV](http://www.freeintertv.com/) | [华人超级直播](https://www.chaojizhibo.net/Sports/cctv5.html) | [优直播](https://www.yoozhibo.net/zuqiu/) | [无插件直播](https://wcjzb.tv/) |  [YesLiveTV](https://yeslivetv.com/) | [88看球](http://www.88kanqiu.me/)
 | [Footballia History](https://footballia.eu/)
 
 ---
