@@ -39,7 +39,7 @@
 
 [豆瓣电影](https://movie.douban.com/) |
 [欧乐影院](https://www.olevod.com/) | [不太灵影视](https://www.2bt0.com/) | [独播库](https://www.duboku.tv/) | [91美剧网](https://91mjw.tv/) | [低端影视](https://ddrk.me/) | [爱一帆](https://www.iyf.tv/) | [爱欧乐影院](https://www.iole.tv/) | [English](https://hdtoday.cc/) | 
-[片库](https://www.pkmp4.com/) | [努努影院](https://nnyy.in/) | [七喜影院](https://www.7xi.tv/) | [小宝影院](https://xiaobaotv.net) | [4kvm](https://www.4kvm.net/) | [美剧天堂](https://www.meijutt.cc/) | [星视界](https://www.histar.tv/) | [tubi english](https://tubitv.com/home) 
+[片库](https://www.pkmp4.com/) | [努努影院](https://nnyy.in/) | [七喜影院](https://www.7xi.tv/) | [小宝影院](https://xiaobaotv.net) | [4kvm](https://www.4kvm.net/) | [美剧天堂](https://www.meijutt.cc/) | [星视界](https://www.histar.tv/) | [tubi english](https://tubitv.com/home) | [movcd](https://movcd.com/)
 
 ---
 
@@ -63,7 +63,7 @@
 
 ### Brodcast sites
 [925直播](http://www.925.tv/)  | [footybite En](https://footybite.to/) | [567iptv](http://www.567iptv.com/) | [IPTV](https://github.com/iptv-org/iptv) | 
-[Reddit](https://soccerlive.app/) | [FREEINTERTV](http://www.freeintertv.com/) | [华人超级直播](https://www.chaojizhibo.net/Sports/cctv5.html) | [优直播](https://www.yoozhibo.net/zuqiu/) | [无插件直播](https://wcjzb.tv/) |  [YesLiveTV](https://yeslivetv.com/) | [88看球](http://www.88kanqiu.me/)
+[Reddit](https://soccerlive.app/) | [FREEINTERTV](http://www.freeintertv.com/) | [华人超级直播](https://www.chaojizhibo.net/Sports/cctv5.html) | [无插件直播](https://wcjzb.tv/) |  [YesLiveTV](https://yeslivetv.com/) | [88看球](http://www.88kanqiu.me/)
 | [Footballia History](https://footballia.eu/)
 
 ---
