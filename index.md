@@ -38,7 +38,8 @@
 ### Video sites.
 
 [豆瓣电影](https://movie.douban.com/) |
-[欧乐影院](https://www.olevod.com/) | [不太灵影视](https://www.2bt0.com/) | [独播库](https://www.duboku.tv/) | [91美剧网](https://91mjw.tv/) | [低端影视](https://ddrk.me/) | [爱一帆](https://www.iyf.tv/) | [English](https://hdtoday.cc/) | [片库](https://www.pkmp4.com/) | [小宝影院](https://xiaobaotv.net) | [4kvm](https://www.4kvm.net/) | [Old english](https://tubitv.com/home) | [movcd](https://movcd.com/) | [努努影院](https://www.nunuys.com/) | [pan](https://zcn1dz4abkq4.feishu.cn/base/Y8TQbJbuKaQHepsi8Xmc0jFfnog?table=tbl5TF9WwdhqmKNu&view=vew3Ln7kuI)
+[欧乐影院](https://www.olevod.com/) | [不太灵影视](https://www.2bt0.com/) | [独播库](https://www.duboku.tv/) | [91美剧网](https://91mjw.tv/) | [低端影视](https://ddrk.me/) | [爱一帆](https://www.iyf.tv/) | [English](https://hdtoday.cc/) | [片库](https://www.pkmp4.com/) | [小宝影院](https://xiaobaotv.net) | [4kvm](https://www.4kvm.net/) | [Old english](https://tubitv.com/home) | [movcd](https://movcd.com/) | [努努影院](https://www.nunuys.com/) | 
+[pan](https://zcn1dz4abkq4.feishu.cn/base/Y8TQbJbuKaQHepsi8Xmc0jFfnog?table=tbl5TF9WwdhqmKNu&view=vew3Ln7kuI) |
 
 ---
 
