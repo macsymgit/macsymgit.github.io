@@ -10,6 +10,7 @@
 ---
 
 ### Self Hosted
+
 [portainer](https://portainer.macsym.duckdns.org) | [cooking](https://cook.macsym.duckdns.org) | [homebox](https://homebox.macsym.duckdns.org)
 
 ---
