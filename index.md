@@ -17,7 +17,7 @@
 ### AI Links
 
 [1min](https://app.1min.ai/) | [HuggingChat](https://huggingface.co/chat/assistants) | [FileGPT](https://filegpt.app/chat) | [Coze Bots](https://www.coze.com/space/7317451347102547973/bot) | [Gemini PDF Chatbot](https://gmultichat.streamlit.app/) | [notebooklm](https://notebooklm.google.com/) | [claude](https://claude.ai/chats) |
-[perplexity search](https://www.perplexity.ai/) | [lmsys](https://arena.lmsys.org/) | [poe](https://poe.com/) | [kelaode.ai](https://kelaode.ai/) | [learn about](https://learning.google.com/experiments/learn-about?src=signup) | [open llm](https://glhf.chat/chat/create) | [deepseek](https://chat.deepseek.com/)
+[perplexity search](https://www.perplexity.ai/) | [lmsys](https://arena.lmsys.org/) | [poe](https://poe.com/) | [kelaode.ai](https://kelaode.ai/) | [learn about](https://learning.google.com/experiments/learn-about?src=signup) | [open llm](https://glhf.chat/chat/create) | [deepseek](https://chat.deepseek.com/) | [alibabacloud](https://bailian.console.alibabacloud.com/?spm=a2c63.p38356.0.0.761b73b5Blr0Zh#/home)
 
 ---
 
