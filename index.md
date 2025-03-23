@@ -11,7 +11,7 @@
 
 ### Self Hosted
 
-[portainer](https://portainer.macsym.duckdns.org) | [cooking](https://cook.macsym.duckdns.org) | [homebox](https://homebox.macsym.duckdns.org)
+[portainer](https://portainer.macsym.duckdns.org) | [cooking](https://cook.macsym.duckdns.org) | [homebox](https://homebox.macsym.duckdns.org) | [prompt-optimizer](https://prompt.macsym.duckdns.org)
 
 ---
 ### AI Links
@@ -24,7 +24,7 @@
 ### Daily News
 
 [youtube](https://www.youtube.com) | [680news](https://www.680news.com/) | [51](https://www.51.ca/) | [YorkBBS](https://forum.yorkbbs.ca/) | 
-[Rolia](https://www.rolia.net/zh/list.php?f=0) | [文学城](https://www.wenxuecity.com/) | [6park](https://www.6park.com/ca.shtml) | [York Covid](https://www.york.ca/covid19vaccine) | 
+[Rolia](https://www.rolia.net/zh/list.php?f=0) | [文学城](https://www.wenxuecity.com/) | [6park](https://www.6park.com/ca.shtml) |  
 [YRDSB Twitter](https://twitter.com/YRDSB) | [今日热榜](https://tophub.today/)  | [milliondollarjourney](https://milliondollarjourney.com/) | [一亩三分](https://www.1point3acres.com/bbs/forum.php?mod=guide&view=digest) | [CFC中文网](https://comefromchina.com)
  
 ---
