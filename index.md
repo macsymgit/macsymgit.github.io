@@ -44,7 +44,8 @@
 ### Video sites.
 
 [豆瓣电影](https://movie.douban.com/) |
-[欧乐影院](https://www.olevod.com/) | [不太灵影视](https://www.butailing.com/) | [独播库](https://www.duboku.tv/) | [91美剧网](https://91mjw.tv/) | [低端影视](https://ddrk.me/) | [爱一帆](https://www.iyf.tv/) | [English](https://hdtoday.cc/) | [片库](https://www.pkmp4.com/) | [小宝影院](https://xiaobaotv.net) | [漫威影视](https://manwei.me/) | [4kvm](https://www.4kvm.net/) | [Old english](https://tubitv.com/home) | [movcd](https://movcd.com/) | [努努影院](https://www.nunuys.com/) | [pan](https://zcn1dz4abkq4.feishu.cn/base/Y8TQbJbuKaQHepsi8Xmc0jFfnog?table=tbl5TF9WwdhqmKNu&view=vew3Ln7kuI) | [美剧窝](https://www.mjwo.net/) | [online TV](https://tv.garden/)
+[欧乐影院](https://www.olevod.com/) | [不太灵影视](https://www.butailing.com/) | [独播库](https://www.duboku.tv/) | [91美剧网](https://91mjw.tv/) | [低端影视](https://ddrk.me/) | [爱一帆](https://www.iyf.tv/) | [English](https://hdtoday.cc/) | [片库](https://www.pkmp4.com/) | [小宝影院](https://xiaobaotv.net) | 
+[漫威影视](https://manwei.me/) | [4kvm](https://www.4kvm.net/) | [Old english](https://tubitv.com/home) | [movcd](https://movcd.com/) | [努努影院](https://www.nunuys.com/) | [pan](https://zcn1dz4abkq4.feishu.cn/base/Y8TQbJbuKaQHepsi8Xmc0jFfnog?table=tbl5TF9WwdhqmKNu&view=vew3Ln7kuI) | [美剧窝](https://www.mjwo.net/) | [online TV](https://tv.garden/)
 
 ---
 
@@ -69,7 +70,7 @@
 ### Brodcast sites
 [925直播](http://www.925.tv/)  | [footybite En](https://footybite.to/) | [567iptv](http://www.567iptv.com/) | [IPTV](https://github.com/iptv-org/iptv) | 
 [Reddit](https://soccerlive.app/) | [FREEINTERTV](http://www.freeintertv.com/) | [华人超级直播](https://www.chaojizhibo.net/Sports/cctv5.html) | [YesLiveTV](https://yeslivetv.com/) | [88看球](http://www.88kanqiu.me/)
-| [Footballia History](https://footballia.eu/) | [jrs23](http://www.jrkan.com/) | [CCTV5](https://www.kds.tw/livetv/watch/CCTV-5-Sports-Channel/1255) | [jsr 直播](https://m.jrszbz.cc/)
+| [Footballia History](https://footballia.eu/) | [jrs23](http://www.jrkan.com/) | [CCTV5](https://www.kds.tw/livetv/watch/CCTV-5-Sports-Channel/1255) | [jsr 直播](https://m.jrszbz.cc/) | [90zhibo](https://www.90zhibo.com/)
 
 ---
 ### Raspberry pi
