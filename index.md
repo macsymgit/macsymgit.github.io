@@ -45,7 +45,7 @@
 
 [豆瓣电影](https://movie.douban.com/) |
 [欧乐影院](https://www.olevod.com/) | [不太灵影视](https://www.butailing.com/) | [独播库](https://www.duboku.tv/) | [91美剧网](https://91mjw.tv/) | [低端影视](https://ddrk.me/) | [爱一帆](https://www.iyf.tv/) | [English](https://hdtoday.cc/) | [片库](https://www.pkmp4.com/) | [小宝影院](https://xiaobaotv.net) | 
-[漫威影视](https://manwei.me/) | [4kvm](https://www.4kvm.net/) | [Old english](https://tubitv.com/home) | [努努影院](https://www.nunuys.com/) | [mxvod](https://mxvod.com/) | [美剧窝](https://www.mjwo.net/) | [online TV](https://tv.garden/) | [人人影视](https://www.renren.pro/)
+[漫威影视](https://manwei.me/) | [4kvm](https://www.4kvm.net/) | [Old english](https://tubitv.com/home) | [努努影院](https://www.nunuys.com/) | [mxvod](https://mxvod.com/) | [美剧窝](https://www.mjwo.net/) | [online TV](https://tv.garden/) | [人人影视](https://www.renren.pro/) | [seedhub](https://www.seedhub.cc/)
 
 ---
 
