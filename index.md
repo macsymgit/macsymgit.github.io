@@ -11,7 +11,7 @@
 
 ### Self Hosted
 
-[portainer](https://portainer.macsym.duckdns.org) | [cooking](https://cook.macsym.duckdns.org) | [homebox](https://homebox.macsym.duckdns.org) | [prompt-optimizer](https://prompt.macsym.duckdns.org)
+[portainer](https://portainer.macsym.duckdns.org) | [cooking](https://cook.macsym.duckdns.org) | [homebox](https://homebox.macsym.duckdns.org) | [prompt-optimizer](https://prompt.macsym.duckdns.org) | [readlater](https://pcwkwllxpeop.us-east-1.clawcloudrun.com)
 
 ---
 ### AI Links
