@@ -11,7 +11,7 @@
 
 ### Self Hosted
 
-[portainer](https://portainer.macsym.duckdns.org) | [cooking](https://cook.macsym.duckdns.org) | [homebox](https://homebox.macsym.duckdns.org) | [prompt-optimizer](https://prompt.macsym.duckdns.org) | [readlater](https://pcwkwllxpeop.us-east-1.clawcloudrun.com) | [deep-research](https://deep-research-1zz.pages.dev/) | [n8n](https://n8n-huejujyr.us-east-1.clawcloudrun.com/home/workflows) | [hugging n8n](https://iflugirl-n8n-free.hf.space/)
+[portainer](https://portainer.macsym.duckdns.org) | [cooking](https://cook.macsym.duckdns.org) | [homebox](https://homebox.macsym.duckdns.org) | [prompt-optimizer](https://prompt.macsym.duckdns.org) | [readlater](https://pcwkwllxpeop.us-east-1.clawcloudrun.com) | [deep-research](https://deep-research-1zz.pages.dev/) | [n8n](https://n8n-huejujyr.us-east-1.clawcloudrun.com/home/workflows) | [Shiori Bookmark](https://pcwkwllxpeop.us-east-1.clawcloudrun.com/#home)
 
 ---
 ### AI Links
