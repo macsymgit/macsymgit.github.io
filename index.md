@@ -46,7 +46,7 @@
 [豆瓣电影](https://movie.douban.com/) |
 [欧乐影院](https://www.olevod.com/) | [不太灵影视](https://www.butailing.com/) | [独播库](https://duboku.info/) | [91美剧网](https://91mjw.tv/) | [低端影视](https://ddrk.me/) | [爱一帆](https://www.iyf.tv/) | [English](https://hdtoday.cc/) | [片库](https://www.pkmp4.com/) | [小宝影院](https://xiaobaotv.net) | 
 [漫威影视](https://manwei.me/) | [4kvm](https://www.4kvm.net/) | [Old english](https://tubitv.com/home) | [努努影院](https://www.nunuys.com/) | [mxvod](https://mxvod.com/) | [美剧窝](https://www.mjwo.net/) | [online TV](https://tv.garden/) | [人人影视](https://www.renren.pro/) | [seedhub](https://www.seedhub.cc/) |
-[LibreTV](https://libretv.iflugirl.ip-ddns.com/) | [小鸭看看](https://xiaoyakankan.com/) | [奈飞工厂](https://www.netflixgc.com/) | [moontv](https://moontv-5kq.pages.dev/) | [lookmovie2](https://www.lookmovie2.to/)
+[LibreTV](https://libretv.iflugirl.ip-ddns.com/) | [小鸭看看](https://xiaoyakankan.com/) | [奈飞工厂](https://www.netflixgc.com/) | [moontv](https://moontv-5kq.pages.dev/) | [lookmovie2](https://www.lookmovie2.to/) | [人人视频](https://m.yichengwlkj.com/pc?channel=CHANNEL_INDEX&t=1757883135881)
 
 ---
 
