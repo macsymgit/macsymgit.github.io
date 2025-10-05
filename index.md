@@ -11,7 +11,7 @@
 
 ### Self Hosted
 
-[portainer](https://portainer.macsym.duckdns.org) | [cooking](https://cook.macsym.duckdns.org) | [homebox](https://homebox.macsym.duckdns.org) | [prompt-optimizer](https://prompt.macsym.duckdns.org) | [readlater](https://pcwkwllxpeop.us-east-1.clawcloudrun.com) | [deep-research](https://deep-research-1zz.pages.dev/) | [n8n](https://n8n.macsym.duckdns.org/) | [Shiori Bookmark](https://pcwkwllxpeop.us-east-1.clawcloudrun.com/#home) | [Gemini Balance](https://owhldqlssnwp.us-east-1.clawcloudrun.com) | [bookmark](linkwarden.macsym.duckdns.org)
+[portainer](https://portainer.macsym.duckdns.org) | [cooking](https://cook.macsym.duckdns.org) | [homebox](https://homebox.macsym.duckdns.org) | [prompt-optimizer](https://prompt.macsym.duckdns.org) | [readlater](https://pcwkwllxpeop.us-east-1.clawcloudrun.com) | [deep-research](https://deep-research-1zz.pages.dev/) | [n8n](https://n8n.macsym.duckdns.org/) | [Shiori Bookmark](https://pcwkwllxpeop.us-east-1.clawcloudrun.com/#home) | [Gemini Balance](https://owhldqlssnwp.us-east-1.clawcloudrun.com) | [bookmark](https://linkwarden.macsym.duckdns.org/)
 
 ---
 ### AI Links
