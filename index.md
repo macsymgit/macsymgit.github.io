@@ -69,9 +69,9 @@
 ---
 
 ### Brodcast sites
-[925直播](http://www.925.tv/)  | [footybite En](https://footybite.to/) | [567iptv](http://www.567iptv.com/) | [IPTV](https://github.com/iptv-org/iptv) | 
-[Reddit](https://soccerlive.app/) | [FREEINTERTV](http://www.freeintertv.com/) | [YesLiveTV](https://yeslivetv.com/) | [88看球](http://www.88kanqiu.me/)
-| [Footballia History](https://footballia.eu/) | [jrs23](http://www.jrkan.com/) | [CCTV5](https://www.kds.tw/livetv/watch/CCTV-5-Sports-Channel/1255) | [jsr 直播](https://m.jrszbz.cc/) | [90zhibo](https://www.90zhibo.com/) | [星火](https://www.kds.tw/index.html) | [soccer1000](https://soccer-1000.com/)
+[soccerway](https://ca.soccerway.com/)  | [footybite En](https://footybite.to/) | [567iptv](http://www.567iptv.com/) | [IPTV](https://github.com/iptv-org/iptv) | 
+[sports100](https://sports100.tv/) | [FREEINTERTV](http://www.freeintertv.com/) | [YesLiveTV](https://yeslivetv.com/) | [88看球](http://www.88zhibo.cc/)
+| [Footballia History](https://footballia.eu/) | [jsr 直播](https://www.jrszbz.cc/) | [90zhibo](https://www.90zhibo.com/) | [soccer1000](https://soccer-1000.com/)
 
 ---
 ### Raspberry pi
