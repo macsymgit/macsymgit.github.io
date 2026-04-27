@@ -71,7 +71,7 @@
 
 ### Brodcast sites
 [livesoccertv](https://www.livesoccertv.com/) | [soccerway](https://ca.soccerway.com/)  | [footybite En](https://footybite.to/) | [567iptv](http://www.567iptv.com/) | [IPTV](https://github.com/iptv-org/iptv) | 
-[sports100](https://sports100.tv/) | [FREEINTERTV](http://www.freeintertv.com/) | [YesLiveTV](https://yeslivetv.com/) | [88看球](http://www.88zhibo.cc/)
+[sports100](https://sports100.tv/) | [FREEINTERTV](http://www.freeintertv.com/) | [YesLiveTV](https://yeslivetv.com/) | [88看球](http://www.88kanqiu.net/)
 | [Footballia History](https://footballia.eu/) | [jsr 直播](https://www.jrszbz.cc/) | [90zhibo](https://www.90zhibo.com/) | [soccer1000](https://soccer-1000.com/)
 
 ---
