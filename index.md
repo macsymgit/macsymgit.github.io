@@ -11,7 +11,7 @@
 
 ### Self Hosted
 
-[portainer](https://portainer.macsym.duckdns.org) | [cooking](https://cook.aiursoft.com/) | [homebox](https://homebox.macsym.duckdns.org) | [prompt-optimizer](https://prompt.macsym.duckdns.org) | [deep-research](https://deep-research-1zz.pages.dev/) | [bookmark](https://linkwarden.macsym.duckdns.org/) | [vaultwarden](https://vaultwarden.macsym.duckdns.org)
+[portainer](https://portainer.macsym.duckdns.org) | [cooking](https://cook.aiursoft.com/) | [homebox](https://homebox.macsym.duckdns.org) | [prompt-optimizer](https://prompt.macsym.duckdns.org) | [deep-research](https://deep-research-1zz.pages.dev/) | [bookmark](https://linkwarden.macsym.duckdns.org/) | [vaultwarden](https://vaultwarden.macsym.duckdns.org) | [Track](https://track.macsym.duckdns.org/)
 
 ---
 ### AI Links
