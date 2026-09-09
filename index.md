@@ -12,7 +12,7 @@
 ### Self Hosted
 
 [portainer](https://portainer.macsym.duckdns.org) | [cooking](https://cook.aiursoft.com/) | [homebox](https://homebox.macsym.duckdns.org) | [prompt-optimizer](https://prompt.macsym.duckdns.org) | [deep-research](https://deep-research-1zz.pages.dev/) | [bookmark](https://linkwarden.macsym.duckdns.org/) | [vaultwarden](https://vaultwarden.macsym.duckdns.org) | [Track](https://track.macsym.duckdns.org/) | 
-[gitstars](https://git.macsym.duckdns.org/) | [Note](https://edgeever.techspider.top/)
+[gitstars](https://git.macsym.duckdns.org/) | [Note](https://edgeever.techspider.top/) | [Cloud Paste](https://cloudpaste.techspider.top/)
 
 ---
 ### AI Links
