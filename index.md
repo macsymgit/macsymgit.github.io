@@ -12,13 +12,7 @@
 ### Self Hosted
 
 [portainer](https://portainer.macsym.duckdns.org) | [cooking](https://cook.aiursoft.com/) | [homebox](https://homebox.macsym.duckdns.org) | [prompt-optimizer](https://prompt.macsym.duckdns.org) | [deep-research](https://deep-research-1zz.pages.dev/) | [bookmark](https://linkwarden.macsym.duckdns.org/) | [vaultwarden](https://vaultwarden.macsym.duckdns.org) | [Track](https://track.macsym.duckdns.org/) | 
-[gitstars](https://git.macsym.duckdns.org/) | [Note](https://edgeever.techspider.top/) | [Cloud Paste](https://cloudpaste.techspider.top/) | [AdGurd](https://dns.tekspider.kdns.fr) | [Monitor](https://status.tekspider.kdns.fr/) |[magpie](https://magpie.tekspider.kdns.fr/) | [Paperless](https://paperless.iflugirl.kdns.fr/)
-
----
-### AI Links
-
-[lmarena](https://lmarena.ai/) | [HuggingChat](https://huggingface.co/chat/assistants) | [Coze Bots](https://www.coze.com/space/7317451347102547973/bot) | [notebooklm](https://notebooklm.google.com/) | [claude](https://claude.ai/chats) |
-[perplexity search](https://www.perplexity.ai/) | [lmsys](https://arena.lmsys.org/) | [poe](https://poe.com/) | [kelaode.ai](https://kelaode.ai/) | [learn about](https://learning.google.com/experiments/learn-about?src=signup) | [open llm](https://glhf.chat/chat/create) | [deepseek](https://chat.deepseek.com/) | [alibabacloud](https://bailian.console.alibabacloud.com/?spm=a2c63.p38356.0.0.761b73b5Blr0Zh#/home)
+[gitstars](https://git.macsym.duckdns.org/) | [Note](https://edgeever.techspider.top/) | [Cloud Paste](https://cloudpaste.techspider.top/) | [AdGurd](https://dns.tekspider.kdns.fr) | [Monitor](https://status.tekspider.kdns.fr/) |[magpie](https://magpie.tekspider.kdns.fr/) | [Paperless](https://paperless.iflugirl.kdns.fr/) | [ReadItLater](https://karakeep.iflugirl.kdns.fr/)
 
 ---
 
