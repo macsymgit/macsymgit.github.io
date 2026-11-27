@@ -5,15 +5,14 @@
 ### Personalization
 
 [Trello](https://trello.com/b/00SLW24Z/home) | [Calendar](https://calendar.google.com/calendar/u/0/r) | [Contacts](https://contacts.google.com/label/35d2759d0fe170f9) | [Notion](https://www.notion.so/Getting-Started-b53eeec53cb7450790a95fb513e279e2) | [Gmail](https://mail.google.com/mail/u/0/#inbox) | [Keep](https://keep.google.com/) | [mediation](https://macsymwang.github.io/mediation-doc/) |
-[quick note](https://vscode.dev/github/macsymgit/quicknote) | [obsidian](https://macsymgit.github.io/obsidian/) | [memos](https://memos.iflugirl.duckdns.org/) | [wallabag](https://wallabag.iflugirl.duckdns.org/) | [my videos](https://sites.google.com/view/iflugirlvideos/home) | 
-[quantdinger](https://quantdinger.iflugirl.kdns.fr/)
+[quick note](https://vscode.dev/github/macsymgit/quicknote) | [obsidian](https://macsymgit.github.io/obsidian/) | [memos](https://memos.iflugirl.duckdns.org/) | [wallabag](https://wallabag.iflugirl.duckdns.org/) | [my videos](https://sites.google.com/view/iflugirlvideos/home) 
 
 ---
 
 ### Self Hosted
 
 [portainer](https://portainer.macsym.duckdns.org) | [cooking](https://cook.aiursoft.com/) | [homebox](https://homebox.macsym.duckdns.org) | [prompt-optimizer](https://prompt.macsym.duckdns.org) | [deep-research](https://deep-research-1zz.pages.dev/) | [bookmark](https://linkwarden.macsym.duckdns.org/) | [vaultwarden](https://vaultwarden.macsym.duckdns.org) | [Track](https://track.macsym.duckdns.org/) | 
-[gitstars](https://git.macsym.duckdns.org/) | [Note](https://edgeever.techspider.top/) | [Cloud Paste](https://cloudpaste.techspider.top/) | [AdGurd](https://dns.tekspider.kdns.fr) | [Monitor](https://status.tekspider.kdns.fr/) |[magpie](https://magpie.tekspider.kdns.fr/) | [Paperless](https://paperless.iflugirl.kdns.fr/) | [ReadItLater](https://karakeep.iflugirl.kdns.fr/)
+[gitstars](https://git.macsym.duckdns.org/) | [Note](https://edgeever.techspider.top/) | [Cloud Paste](https://cloudpaste.techspider.top/) | [AdGurd](https://dns.tekspider.kdns.fr) | [Monitor](https://status.tekspider.kdns.fr/) |[magpie](https://magpie.tekspider.kdns.fr/) | [Paperless](https://paperless.iflugirl.kdns.fr/) | [ReadItLater](https://karakeep.iflugirl.kdns.fr/) | [quantdinger](https://quantdinger.iflugirl.kdns.fr/)
 
 ---
 
